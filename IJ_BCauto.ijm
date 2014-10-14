@@ -1,7 +1,7 @@
  /*
  ImageJ Automatic Brightness & Contrast Enhancement in ImageJ macro
   
- "Auto" button in the brightness and contrast interface and the contrast enhancement provided in the menu as "Process > Enhance Contrast" use different algorithms. This macro mimicks the algorithm used for the former enhancement. 
+ "Auto" button in the brightness and contrast interface and the contrast enhancement provided in the menu as "Process > Enhance Contrast" use different algorithms. This macro mimics the algorithm used for the former enhancement. 
 
 See the link below:
 http://imagej.1557.x6.nabble.com/Auto-Brightness-Contrast-and-setMinAndMax-td4968628.html
